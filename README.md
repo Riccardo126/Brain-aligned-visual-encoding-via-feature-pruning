@@ -8,7 +8,7 @@ This project investigates how visual representations are extracted from pretrain
 Executing the project is as simple as setting up the dataset below and running the notebook.  
   
 ## Dataset:
-Downloadable at: https://drive.google.com/drive/folders/17_5bKFH7e_54q0Eu3x8mnSk8kumhGrs0?usp=sharing
+Downloadable at: https://drive.google.com/drive/folders/17_5bKFH7e_54q0Eu3x8mnSk8kumhGrs0?usp=sharing  
 You can also add a shortcut to your drive instead of downloading the dataset and reuploading it on drive.
 
 ### Dataset structure:
